@@ -1,0 +1,21 @@
+{
+  "name": "hzbtc",
+  "version": "0.0.0",
+  "description": "Discord bot for SitePoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eject": "react-scripts eject"
+  },
+  "author": "Michiel Mulders",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "dotenv": "8.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
